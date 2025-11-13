@@ -1,0 +1,3 @@
+searxng==1.6.0
+Werkzeug==2.3.8
+PyYAML==6.0

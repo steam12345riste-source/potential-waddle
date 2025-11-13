@@ -1,0 +1,11 @@
+server:
+  bind_address: 0.0.0.0
+  port: 8080
+
+ui:
+  theme: oscar
+  language: en
+
+search:
+  safe_search: 1
+  timeout: 10
